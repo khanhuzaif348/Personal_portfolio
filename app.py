@@ -91,7 +91,11 @@ with col2:
 # Top Skills Section
 st.markdown("<div class='container'><h2>🚀 Top Skills</h2></div>", unsafe_allow_html=True)
 st.markdown("""
-- **HTML**  
+- **python**
+- **Sql**
+- **Mysql**
+- **Machine Learning**
+- **powerBI**
 - **Supervised Learning**  
 - **Unsupervised Learning**  
 """)
